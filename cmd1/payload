@@ -1,0 +1,1 @@
+./cmd1 "/usr/bin/find /home/cmd1 -name \*f\* | /usr/bin/xargs /usr/bin/cat"
